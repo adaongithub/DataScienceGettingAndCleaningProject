@@ -1,6 +1,5 @@
 
-##This is the GitHub repository for the Week Three Project for the Data
-Science course "Getting and Cleaning Data".
+###This is the GitHub repository for the Week Three Project for the Data Science course "Getting and Cleaning Data".
 
 It contains a script "run_analysis.R" which takes data from source [1] and
 processes it according to the project problem statement producing the output
