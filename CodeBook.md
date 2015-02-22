@@ -31,7 +31,7 @@ range -1 to +1 with seven digits of precision.  (Note, it is not clear from
 
 Below are our 88 variables (table columns).
 
-
+```
  1) "SubjectCode"                     An integer [1,30] coding the person
                                       performing the different activities
 
@@ -135,11 +135,11 @@ Below are our 88 variables (table columns).
 86) "Avg_fBodyBodyAccJerkMag_std_"            
 87) "Avg_fBodyBodyGyroMag_std_"               
 88) "Avg_fBodyBodyGyroJerkMag_std_"
+```
 
 
 
-
-References:
+###References:
 
 [1]
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
